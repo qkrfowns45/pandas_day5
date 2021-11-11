@@ -11,7 +11,7 @@ Created on Thu Nov 11 22:02:35 2021
 import googlemaps
 import pandas as pd
 
-my_key = "AIzaSyAgS0hVatKC7Y8cCqGrLJ6ic9_MC_qZhnI"
+#my_key = "여기다는 api 키 입력"
 
 # 구글맵스 객체 생성하기
 maps = googlemaps.Client(key=my_key)  # my key값 입력
